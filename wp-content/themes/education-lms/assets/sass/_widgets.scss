@@ -1,0 +1,142 @@
+.widget {
+	margin: 0 0 2em;
+
+	/* Make sure select elements fit in widgets. */
+	select {
+		max-width: 100%;
+	}
+}
+
+
+.widget-area {
+  .widget-title {
+    position: relative;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0 0 20px;
+    letter-spacing: 1px;
+    &::after {
+      content: '';
+      height: 2px;
+      width: 50px;
+      display: block;
+      background-color: $color__link-hover;
+    }
+  }
+
+  ul {
+    li {
+      margin-bottom: 7px;
+    }
+  }
+}
+
+.widget_tag_cloud {
+  a {
+    font-size: 13px !important;
+    color: #aaa;
+    display: inline-block;
+    padding: 5px 9px;
+    margin: 0 5px 5px 0;
+    border: 1px solid #f5f5f5;
+    background-color: #f0f2f5;
+    &:hover {
+      border-color: $color__link-hover;
+      color: #fff;
+      background-color: $color__link-hover;
+      text-decoration: none;
+    }
+  }
+
+}
+
+.theme-posts-widget {
+  li {
+    padding: 10px 0 13px;
+    margin-bottom: 5px;
+    clear: both;
+    overflow: hidden;
+    &:first-child {
+      padding-top: 0;
+    }
+    .p-thumbnail {
+      max-width: 60px;
+      float: left;
+    }
+    .p-info {
+      display: block;
+      float: left;
+      margin-left: 15px;
+      width: calc(100% - 75px);
+      h3 {
+        font-size: 14px;
+        line-height: 1.4;
+      }
+      span {
+        display: block;
+        font-size: 12px;
+        color: #aaa;
+      }
+    }
+    .course-price {
+      display: inline-block;
+      vertical-align: top;
+      .price {
+        min-width: 47px;
+        padding: 4px;
+        color: #fff;
+        text-align: center;
+        background-color: #03a9f4;
+        border-radius: 3px;
+        font-size: 12px;
+        font-weight: 100;
+        text-transform: none;
+        line-height: 12px;
+      }
+      .origin-price {
+        font-size: 12px;
+      }
+    }
+    .course-review {
+      display: inline-block;
+      vertical-align: bottom;
+      label {
+        display: none;
+      }
+      .review-stars-rated .review-stars li {
+        padding: 0;
+      }
+      .review-stars-rated .review-stars.filled:before {
+        content: '';
+      }
+      .review-stars-rated .review-stars.empty, .review-stars-rated .review-stars.filled {
+        font-size: 0;
+      }
+    }
+  }
+}
+
+.search-form {
+  position: relative;
+  label {
+    width: 100%;
+    margin: 0;
+  }
+  .search-submit {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.55em 1em;
+    width: auto;
+    border-radius: 4px;
+    color: $color__link-hover;
+    font-size: 17px;
+    background: transparent;
+  }
+}
+
+.lp-widget .lp-course-info-fields {
+  padding-left: 0;
+}

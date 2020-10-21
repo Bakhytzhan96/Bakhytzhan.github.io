@@ -1,0 +1,102 @@
+/*
+Theme Name: Education LMS
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.site-branding {
+    float: right;
+}
+
+.main-navigation {
+    float: right;
+}
+
+.main-navigation li {
+    float: right;
+}
+.main-navigation ul ul {
+    padding-right: 0;
+}
+
+.cart-contents {
+    border-left: none;
+    border-right: 1px solid white;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.titlebar {
+    text-align: right;
+}
+.carousel-wrapper .slick-prev {
+    right: auto;
+    left: 15px;
+}
+.carousel-wrapper .slick-next {
+    right: auto;
+    left: 55px;
+}
+.carousel-wrapper h2.title {
+    text-align: right;
+}
+
+.course-grid-layout2 .course-item .course-holder .info-on-hover,
+.carouse-grid .course-grid-box .course-holder .info-on-hover {
+    padding: 15px;
+    text-align: right;
+}
+
+.course-grid-layout2 .course-item .course-holder .course-bg,
+.carouse-grid .course-grid-box .course-holder .course-bg {
+    -webkit-transform: translate3d(30px, 0, 0);
+    transform: translate3d(30px, 0, 0);
+}
+
+.switch-layout-container .learn-press-search-course-form button,
+.search-form .search-submit {
+    left: 0;
+}
+
+.site-footer .footer-social {
+    float: right;
+}
+
+#to-top {
+    right: auto;
+    left: 30px;
+}
+
+.blog .entry-header .entry-date, .archive .entry-header .entry-date, .search .entry-header .entry-date {
+    float: right;
+    padding-right: 20px;
+}
+
+.blog .entry-header .entry-contain, .archive .entry-header .entry-contain, .search .entry-header .entry-contain {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.course-item .course-thumbnail .price {
+    left: auto;
+    right: 0;
+}
+
+.course-item .course-content .course-meta .value i {
+    margin-left: 3px;
+    margin-right: 0;
+}
+
+.single-lp_course .course-meta > div {
+    float: right;
+}
+.single-lp_course .course-info li {
+    text-align: right;
+}

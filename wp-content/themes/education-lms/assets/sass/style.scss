@@ -1,0 +1,92 @@
+/*
+Theme Name: Education LMS 
+Theme URI: https://www.filathemes.com/download/education-lms/
+Author: FilaThemes
+Author URI: https://www.filathemes.com
+Description: Education LMS is a simple, clean, responsive and user-friendly education WordPress theme specially designed for university, school, college or other educational institutions. The Education LMS theme has powerful theme customization options such as custom header media, logo, custom menu, social icons, featured slider, courses, title bar, news, and more. It makes your website more engaging and informative. Especially, the Education LMS theme works excellent with Elementor and LearnPress plugins, help you easily create flexible content and sell the course online. For more details, check out Theme Instructions at http://docs.filathemes.com/education-lms/ and demo at https://www.filathemes.com/downloads/education-lms/
+Version: 0.0.7
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: education-lms
+Tags: education, news, blog, custom-background, custom-logo, custom-header, custom-menu, featured-images, threaded-comments, translation-ready, right-sidebar, left-sidebar, featured-image-header, footer-widgets
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Education LMS is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+@import "variables-site";
+@import "mixins-master";
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+@import "normalize";
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+@import "typography";
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+@import "elements";
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+@import "forms";
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+@import "navigation";
+
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+@import "widgets";
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+@import "site";
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+@import "media";
+
+/*--------------------------------------------------------------
+# Elementors
+--------------------------------------------------------------*/
+@import "elementors";

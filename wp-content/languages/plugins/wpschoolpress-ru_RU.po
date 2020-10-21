@@ -1,0 +1,1880 @@
+# Translation of Plugins - WPSchoolPress - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WPSchoolPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-19 12:33:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WPSchoolPress - Stable (latest release)\n"
+
+#: wpsp-layout.php:104
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: includes/filter_menu.php:9
+msgid "Registration Request"
+msgstr "Запрос на регистрацию"
+
+#: includes/filter_menu.php:17
+msgid "Students Attendance"
+msgstr "Посещаемость студентов"
+
+#: lib/wpsp-ajaxworks.php:4158
+msgid "<span class=\"wpsp-text-red\">No Students Available in this class</span>"
+msgstr "<span class=\"wpsp-text-red\">Класс пуст</span>"
+
+#: lib/wpsp-ajaxworks.php:4095
+msgid "<span class=\"wpsp-text-red\">N/E</span> No Attendance Entered Yet"
+msgstr "<span class=\"wpsp-text-red\">Н/Д</span> Посещаемость пуста"
+
+#: pages/wpsp-marks.php:191
+msgid "Remarks"
+msgstr "Замечания"
+
+#: pages/wpsp-marks.php:189
+msgid "Grade"
+msgstr "Класс"
+
+#: lib/wpsp-deactivation.php:15
+msgid "client"
+msgstr "клиент"
+
+#: lib/wpsp-deactivation.php:14
+msgid "author"
+msgstr "автор"
+
+#: lib/wpsp-deactivation.php:13
+msgid "contributor"
+msgstr "автор"
+
+#: lib/wpsp-deactivation.php:12
+msgid "editor"
+msgstr "редактор"
+
+#: lib/wpsp-deactivation.php:11
+msgid "Subscriber"
+msgstr "Подписчик"
+
+#: lib/wpsp-ajaxworks.php:4142
+msgid "Present"
+msgstr "Сейчас"
+
+#: lib/wpsp-ajaxworks.php:4142
+msgid "Absent"
+msgstr "Нет на месте"
+
+#: lib/wpsp-ajaxworks.php:4129
+msgid "Commment"
+msgstr "Комментарий"
+
+#: lib/wpsp-ajaxworks.php:4087
+msgid "<span class=\"wpsp-text-red\">N/A</span> Not Applicable(Date is marked as leave)"
+msgstr "<span class=\"label label-danger\">N / A</span> Не применимо (Дата отмечена как отпуск)"
+
+#: lib/wpsp-ajaxworks.php:4043
+msgid "Please enter correct old password"
+msgstr "Пожалуйста, введите правильный старый пароль"
+
+#: lib/wpsp-ajaxworks.php:4038
+msgid "New Password and re-enter New Password Should be same"
+msgstr "Поля \"новый пароль\" и \"повторите новый пароль\" должны быть одинаковыми"
+
+#: lib/wpsp-ajaxworks.php:4033
+msgid "Password Updated Successfully"
+msgstr "Пароль успешно обновлен"
+
+#: lib/wpsp-ajaxworks.php:3994
+msgid "Notify Date"
+msgstr "Дата уведомления"
+
+#: lib/wpsp-ajaxworks.php:3974
+msgid "Notification ID"
+msgstr "ID уведомления"
+
+#: lib/wpsp-ajaxworks.php:3716
+msgid "Attendance already were entered!"
+msgstr "Посещение уже было принято!"
+
+#: lib/wpsp-ajaxworks.php:1192
+msgid "Already attendance were entered!"
+msgstr "Посещение уже было принято!"
+
+#: lib/wpsp-ajaxworks.php:1191 lib/wpsp-ajaxworks.php:3715
+msgid "Update Attendance Entry"
+msgstr "Обновление посещаемости"
+
+#: lib/wpsp-ajaxworks.php:1187 lib/wpsp-ajaxworks.php:3711
+msgid "New Attendance Entry"
+msgstr "Новое посещение"
+
+#: lib/wpsp-admin.php:50
+msgid "Message"
+msgstr "Сообщение"
+
+#: lib/wpsp-admin.php:30
+msgid "Subscribers can update new features right from their plugin dashboard. Kindly, make sure that you have license code above. If not contact us."
+msgstr "Подписчики могут обновлять новые функции прямо на панели инструментов плагина . Пожалуйста, убедитесь, что у вас есть лицензионный код выше. Если нет, свяжитесь с нами."
+
+#: lib/wpsp-admin.php:16
+msgid "Advanced Plan"
+msgstr "Расширенный план"
+
+#: includes/wpsp-teacherList.php:739 includes/wpsp-teacherList.php:911
+msgid "Incharge Class"
+msgstr "Класс зачислен"
+
+#: includes/wpsp-teacherList.php:731 includes/wpsp-teacherList.php:903
+msgid "Employee Code"
+msgstr "Код сотрудника"
+
+#: includes/wpsp-teacherList.php:89
+msgid "Position"
+msgstr "Должность"
+
+#: includes/wpsp-teacherList.php:77
+msgid "Qualification"
+msgstr "Квалификация"
+
+#: includes/wpsp-teacherList.php:69
+msgid "Date Of Releaving"
+msgstr "Дата выхода"
+
+#: includes/wpsp-teacherList.php:57
+msgid "Address"
+msgstr "Адрес"
+
+#: includes/wpsp-teacherList.php:41
+msgid "Teacher Email"
+msgstr "Email учителя"
+
+#: includes/wpsp-teacherList.php:25
+msgid "Emp. Code"
+msgstr "Код работодателя"
+
+#: includes/wpsp-parentList.php:14
+msgid "Profession"
+msgstr "Профессия"
+
+#: includes/wpsp-parentList.php:12
+msgid "Education"
+msgstr "Образование"
+
+#: includes/wpsp-parentList.php:11 includes/wpsp-parentList.php:175
+#: includes/wpsp-parentList.php:220
+msgid "Parent Email ID"
+msgstr "Email родителя"
+
+#: includes/wpsp-teacherList.php:37 includes/wpsp-parentList.php:9
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: includes/wpsp-teacherList.php:33 includes/wpsp-parentList.php:8
+msgid "Middle Name"
+msgstr "Отчество"
+
+#: includes/wpsp-teacherList.php:29 includes/wpsp-parentList.php:7
+msgid "First Name"
+msgstr "Имя"
+
+#: includes/wpsp-misc.php:1168
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+#: includes/wpsp-misc.php:1165
+msgid "Zambia"
+msgstr "Замбия"
+
+#: includes/wpsp-misc.php:1162
+msgid "Yemen"
+msgstr "Йемен"
+
+#: includes/wpsp-misc.php:1159
+msgid "Western Samoa"
+msgstr "Западное Самоа"
+
+#: includes/wpsp-misc.php:1156
+msgid "Western Sahara"
+msgstr "Западная Сахара"
+
+#: includes/wpsp-misc.php:1153
+msgid "Wallis and Futuna"
+msgstr "Уоллис и Футуна"
+
+#: includes/wpsp-misc.php:1150
+msgid "Vietnam"
+msgstr "Вьетнам"
+
+#: includes/wpsp-misc.php:1147
+msgid "Venezuela"
+msgstr "Венесуэла"
+
+#: includes/wpsp-misc.php:1144
+msgid "Vatican"
+msgstr "Ватикан"
+
+#: includes/wpsp-misc.php:1141
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: lib/wpsp-ajaxworks.php:4161
+msgid "Attendance Overview"
+msgstr "Посещаемость"
+
+#: includes/wpsp-misc.php:1117
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+#: includes/wpsp-misc.php:1114
+msgid "Turks and Caicos Islands"
+msgstr "Теркс и Кайкос"
+
+#: includes/wpsp-misc.php:1111
+msgid "Turkmenistan"
+msgstr "Туркмения"
+
+#: includes/wpsp-misc.php:1108
+msgid "Turkey"
+msgstr "Турция"
+
+#: includes/wpsp-misc.php:1105
+msgid "Tunisia"
+msgstr "Тунис"
+
+#: includes/wpsp-misc.php:1102
+msgid "Trinidad and Tobago"
+msgstr "Тринидад и Тобаго"
+
+#: includes/wpsp-misc.php:1099
+msgid "Tonga"
+msgstr "Тонга"
+
+#: includes/wpsp-misc.php:1096
+msgid "Tokelau"
+msgstr "Токелау"
+
+#: includes/wpsp-misc.php:1093
+msgid "Togo"
+msgstr "Того"
+
+#: includes/wpsp-misc.php:1090
+msgid "Timor-Leste"
+msgstr "Восточный Тимор"
+
+#: includes/wpsp-misc.php:1087
+msgid "Thailand"
+msgstr "Таиланд"
+
+#: includes/wpsp-misc.php:1084
+msgid "Tanzania"
+msgstr "Танзания"
+
+#: includes/wpsp-misc.php:1081
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+#: includes/wpsp-misc.php:1078
+msgid "Taiwan"
+msgstr "Тайвань"
+
+#: includes/wpsp-misc.php:1075
+msgid "Syria"
+msgstr "Сирия"
+
+#: includes/wpsp-misc.php:1027
+msgid "Slovakia"
+msgstr "Словакия"
+
+#: includes/wpsp-misc.php:1024
+msgid "Singapore"
+msgstr "Сингапур"
+
+#: includes/wpsp-misc.php:1021
+msgid "Sierra Leone"
+msgstr "Сьерра-Леоне"
+
+#: includes/wpsp-misc.php:1018
+msgid "Seychelles"
+msgstr "Сейшельские Острова"
+
+#: includes/wpsp-misc.php:1015
+msgid "Serbia"
+msgstr "Сербия"
+
+#: includes/wpsp-misc.php:1012
+msgid "Senegal"
+msgstr "Синегал"
+
+#: includes/wpsp-misc.php:1009
+msgid "Saudi Arabia"
+msgstr "Саудовская Аравия"
+
+#: includes/wpsp-misc.php:1003
+msgid "San Marino"
+msgstr "Сан-Марино"
+
+#: includes/wpsp-misc.php:1000
+msgid "Saint Vincent and the Grenadines"
+msgstr "Сент-Винсент и Гренадины"
+
+#: includes/wpsp-misc.php:997
+msgid "Saint Pierre and Miquelon"
+msgstr "Сен-Пьер и Микелон"
+
+#: includes/wpsp-misc.php:994
+msgid "Saint Martin (Dutch part)"
+msgstr "Saint Martin (Dutch part)"
+
+#: includes/wpsp-misc.php:991
+msgid "Saint Martin (French part)"
+msgstr "Saint Martin (French part)"
+
+#: includes/wpsp-misc.php:988
+msgid "Saint Lucia"
+msgstr "Сент-Люсия"
+
+#: includes/wpsp-misc.php:985
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts and Nevis"
+
+#: includes/wpsp-misc.php:940
+msgid "Panama"
+msgstr "Панама"
+
+#: includes/wpsp-misc.php:937
+msgid "Palestinian Territory"
+msgstr "Палестина"
+
+#: includes/wpsp-misc.php:934
+msgid "Pakistan"
+msgstr "Пакистан"
+
+#: includes/wpsp-misc.php:931
+msgid "Oman"
+msgstr "Оман"
+
+#: includes/wpsp-misc.php:928
+msgid "Norway"
+msgstr "Норвегия"
+
+#: includes/wpsp-misc.php:925
+msgid "North Korea"
+msgstr "Северная Корея"
+
+#: includes/wpsp-misc.php:922
+msgid "Norfolk Island"
+msgstr "Остров Норфолк"
+
+#: includes/wpsp-misc.php:919
+msgid "Niue"
+msgstr "Ниуэ"
+
+#: includes/wpsp-misc.php:916
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: includes/wpsp-misc.php:913
+msgid "Niger"
+msgstr "Нигер"
+
+#: includes/wpsp-misc.php:910
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+#: includes/wpsp-misc.php:907
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+#: includes/wpsp-misc.php:904
+msgid "New Caledonia"
+msgstr "Новая Каледония"
+
+#: includes/wpsp-misc.php:901
+msgid "Netherlands Antilles"
+msgstr "Нидерландские Антильские острова"
+
+#: includes/wpsp-misc.php:898
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+#: includes/wpsp-misc.php:850
+msgid "Mauritania"
+msgstr "Мавритания"
+
+#: includes/wpsp-misc.php:847
+msgid "Martinique"
+msgstr "Мартиника"
+
+#: includes/wpsp-misc.php:844
+msgid "Marshall Islands"
+msgstr "Маршалловы острова"
+
+#: includes/wpsp-misc.php:841
+msgid "Malta"
+msgstr "Мальта"
+
+#: includes/wpsp-misc.php:838
+msgid "Mali"
+msgstr "Мали"
+
+#: includes/wpsp-misc.php:835
+msgid "Maldives"
+msgstr "Мальдивы"
+
+#: includes/wpsp-misc.php:832
+msgid "Malaysia"
+msgstr "Малайзия"
+
+#: includes/wpsp-misc.php:829
+msgid "Malawi"
+msgstr "Малави"
+
+#: includes/wpsp-misc.php:826
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: includes/wpsp-misc.php:823
+msgid "Macedonia"
+msgstr "Македония"
+
+#: includes/wpsp-misc.php:820
+msgid "Macao S.A.R., China"
+msgstr "Macao S.A.R., China"
+
+#: includes/wpsp-misc.php:817
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: includes/wpsp-misc.php:814
+msgid "Lithuania"
+msgstr "Литва"
+
+#: includes/wpsp-misc.php:811
+msgid "Liechtenstein"
+msgstr "Лихтенштейн"
+
+#: includes/wpsp-misc.php:808
+msgid "Libya"
+msgstr "Ливия"
+
+#: includes/wpsp-misc.php:760
+msgid "Italy"
+msgstr "Италия"
+
+#: includes/wpsp-misc.php:757
+msgid "Israel"
+msgstr "Израиль"
+
+#: includes/wpsp-misc.php:754
+msgid "Isle of Man"
+msgstr "Остров Мэн"
+
+#: includes/wpsp-misc.php:751
+msgid "Republic of Ireland"
+msgstr "Республика Ирландия"
+
+#: includes/wpsp-misc.php:748
+msgid "Iraq"
+msgstr "Ирак"
+
+#: includes/wpsp-misc.php:745
+msgid "Iran"
+msgstr "Иран"
+
+#: includes/wpsp-misc.php:742
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: includes/wpsp-misc.php:739
+msgid "India"
+msgstr "Индия"
+
+#: includes/wpsp-misc.php:736
+msgid "Iceland"
+msgstr "Исландия"
+
+#: includes/wpsp-misc.php:733
+msgid "Hungary"
+msgstr "Венгрия"
+
+#: includes/wpsp-misc.php:730
+msgid "Hong Kong"
+msgstr "Гонг Конг"
+
+#: includes/wpsp-misc.php:727
+msgid "Honduras"
+msgstr "Гондурас"
+
+#: includes/wpsp-misc.php:724
+msgid "Heard Island and McDonald Islands"
+msgstr "Остров Херд и острова Макдональд"
+
+#: includes/wpsp-misc.php:721
+msgid "Haiti"
+msgstr "Гаити"
+
+#: includes/wpsp-misc.php:718
+msgid "Guyana"
+msgstr "Гайана"
+
+#: includes/wpsp-misc.php:670
+msgid "French Polynesia"
+msgstr "Французская Полинезия"
+
+#: includes/wpsp-misc.php:667
+msgid "French Guiana"
+msgstr "Французская Гвиана"
+
+#: includes/wpsp-misc.php:664
+msgid "France"
+msgstr "Франция"
+
+#: includes/wpsp-misc.php:661
+msgid "Finland"
+msgstr "Финляндия"
+
+#: includes/wpsp-misc.php:658
+msgid "Fiji"
+msgstr "Фиджи"
+
+#: includes/wpsp-misc.php:655
+msgid "Faroe Islands"
+msgstr "Фарерские острова"
+
+#: includes/wpsp-misc.php:652
+msgid "Falkland Islands"
+msgstr "Фолклендские острова"
+
+#: includes/wpsp-misc.php:649
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+#: includes/wpsp-misc.php:646
+msgid "Estonia"
+msgstr "Эстония"
+
+#: includes/wpsp-misc.php:643
+msgid "Eritrea"
+msgstr "Эритрея"
+
+#: includes/wpsp-misc.php:640
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+#: includes/wpsp-misc.php:637
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+#: includes/wpsp-misc.php:634
+msgid "Egypt"
+msgstr "Египет"
+
+#: includes/wpsp-misc.php:631
+msgid "Ecuador"
+msgstr "Эквадор"
+
+#: includes/wpsp-misc.php:628
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+#: includes/wpsp-misc.php:580
+msgid "Christmas Island"
+msgstr "Остров Рождества"
+
+#: includes/wpsp-misc.php:577
+msgid "China"
+msgstr "Китай"
+
+#: includes/wpsp-misc.php:574
+msgid "Chile"
+msgstr "Чили"
+
+#: includes/wpsp-misc.php:571
+msgid "Chad"
+msgstr "Чад"
+
+#: includes/wpsp-misc.php:568
+msgid "Central African Republic"
+msgstr "Центральноафриканская Республика"
+
+#: includes/wpsp-misc.php:565
+msgid "Cayman Islands"
+msgstr "Каймановы острова"
+
+#: includes/wpsp-misc.php:562
+msgid "Cape Verde"
+msgstr "Кабо-Верде"
+
+#: includes/wpsp-misc.php:559
+msgid "Canada"
+msgstr "Канада"
+
+#: includes/wpsp-misc.php:556
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: includes/wpsp-misc.php:553
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: includes/wpsp-misc.php:550
+msgid "Burundi"
+msgstr "Бурунди"
+
+#: includes/wpsp-misc.php:547
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+#: includes/wpsp-misc.php:544
+msgid "Bulgaria"
+msgstr "Болгария"
+
+#: includes/wpsp-misc.php:541
+msgid "Brunei"
+msgstr "Бруней"
+
+#: includes/wpsp-misc.php:538
+msgid "British Virgin Islands"
+msgstr "Британские Виргинские острова"
+
+#: includes/wpsp-misc.php:490
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: includes/wpsp-misc.php:487
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+#: includes/wpsp-misc.php:484
+msgid "Bahamas"
+msgstr "Багамы"
+
+#: includes/wpsp-misc.php:481
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: includes/wpsp-misc.php:478
+msgid "Austria"
+msgstr "Австрия"
+
+#: includes/wpsp-misc.php:475
+msgid "Australia"
+msgstr "Австралия"
+
+#: includes/wpsp-misc.php:472
+msgid "Aruba"
+msgstr "Аруба"
+
+#: includes/wpsp-misc.php:469
+msgid "Armenia"
+msgstr "Армения"
+
+#: includes/wpsp-misc.php:466
+msgid "Argentina"
+msgstr "Аргентина"
+
+#: includes/wpsp-misc.php:463
+msgid "Antigua and Barbuda"
+msgstr "Антигуа и Барбуда"
+
+#: includes/wpsp-misc.php:460
+msgid "Antarctica"
+msgstr "Антарктика"
+
+#: includes/wpsp-misc.php:457
+msgid "Anguilla"
+msgstr "Ангилья"
+
+#: includes/wpsp-misc.php:454
+msgid "Angola"
+msgstr "Ангола"
+
+#: includes/wpsp-misc.php:451
+msgid "Andorra"
+msgstr "Андорра"
+
+#: includes/wpsp-misc.php:448
+msgid "Algeria"
+msgstr "Алжир"
+
+#: includes/wpsp-studentList.php:8
+msgid "Student First Name"
+msgstr "Имя ученика"
+
+#: includes/wpsp-studentList.php:9
+msgid "Student Middle Name"
+msgstr "Отчество ученика"
+
+#: includes/wpsp-studentList.php:10
+msgid "Student Last Name"
+msgstr "Фамилия ученика"
+
+#: lib/wpsp-ajaxworks.php:4126 includes/wpsp-studentList.php:7
+msgid "Roll Number"
+msgstr "Roll Number"
+
+#: includes/wpsp-login.php:106
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: includes/wpsp-login.php:105
+msgid "login"
+msgstr "Вход"
+
+#: includes/wpsp-login.php:101
+msgid "Username or Email"
+msgstr "Имя пользователя или e-mail"
+
+#: pages/wpsp-marks.php:183
+msgid "Mark"
+msgstr "Оценка"
+
+#: pages/wpsp-marks.php:171
+msgid "Enter Marks"
+msgstr "Введите оценку"
+
+#: pages/wpsp-marks.php:169
+msgid "Marks Already Entered update here!"
+msgstr "Оценки проставлены!"
+
+#: pages/wpsp-marks.php:146
+msgid "View Marks"
+msgstr "Смотреть оценки"
+
+#: pages/wpsp-marks.php:144
+msgid "Upload CSV"
+msgstr "Загрузить CSV"
+
+#: pages/wpsp-student.php:134
+msgid "Date of Join"
+msgstr "Дата поступления"
+
+#: pages/wpsp-student.php:130
+msgid "Date of Birth"
+msgstr "Дета рождения"
+
+#: includes/wpsp-teacherList.php:53 includes/wpsp-teacherList.php:81
+#: includes/wpsp-parentList.php:13 includes/wpsp-studentList.php:13
+#: pages/wpsp-student.php:126
+msgid "Gender"
+msgstr "Пол"
+
+#: pages/wpsp-student.php:16
+msgid "Update Student"
+msgstr "Обновить"
+
+#: pages/wpsp-student.php:13
+msgid "Add New Student"
+msgstr "Добавить ученика"
+
+#: pages/wpsp-subject.php:22
+msgid "Edit Class"
+msgstr "Изменить класс"
+
+#: pages/wpsp-class.php:18
+msgid "Update Class"
+msgstr "Обновить класс"
+
+#: pages/wpsp-class.php:15 pages/wpsp-subject.php:18
+msgid "Add New Class"
+msgstr "Добавить класс"
+
+#: pages/wpsp-changepassword.php:40
+msgid "Confirm  New Password"
+msgstr "Подтвердите новый пароль"
+
+#: pages/wpsp-changepassword.php:31
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: pages/wpsp-changepassword.php:22
+msgid "Current Password"
+msgstr "Текущий пароль"
+
+#: pages/wpsp-exams.php:20
+msgid "Update Exam"
+msgstr "Обновить экзамен"
+
+#: pages/wpsp-exams.php:17
+msgid "Add New Exam"
+msgstr "Добавить экзамен"
+
+#: pages/wpsp-notify.php:296 pages/wpsp-notify.php:332
+msgid "Type"
+msgstr "Тип"
+
+#: pages/wpsp-settings.php:603
+msgid "Send SMS to parent when student absent"
+msgstr "Отправить SMS родителям, если ученик отсутствует"
+
+#: pages/wpsp-settings.php:601
+msgid "SMS Setting"
+msgstr "Настройки SMS"
+
+#: pages/wpsp-settings.php:247
+msgid "Class Hour Name Already exists."
+msgstr "Время класса уже установлено"
+
+#: pages/wpsp-settings.php:243
+msgid "Invalid Class Time."
+msgstr "Не допустимое время класса"
+
+#: pages/wpsp-settings.php:241
+msgid "Please fill all values."
+msgstr "Пожалуйста заполните все значения"
+
+#: includes/wpsp-teacherList.php:751 includes/wpsp-studentList.php:152
+#: pages/wpsp-settings.php:104 pages/wpsp-settings.php:126
+#: pages/wpsp-notify.php:298 pages/wpsp-notify.php:334
+msgid "Action"
+msgstr "Действие"
+
+#: pages/wpsp-settings.php:103 pages/wpsp-settings.php:125
+msgid "Fields"
+msgstr "Поля"
+
+#: pages/wpsp-settings.php:102 pages/wpsp-settings.php:124
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/wpsp-examForm.php:216 pages/wpsp-settings.php:82
+msgid "Back"
+msgstr "Назад"
+
+#: pages/wpsp-settings.php:78
+msgid "No data retrived!"
+msgstr "Данные не получены!"
+
+#: pages/wpsp-settings.php:59
+msgid "Subject:"
+msgstr "Тема"
+
+#: pages/wpsp-settings.php:56
+msgid "Class:"
+msgstr "Класс:"
+
+#: pages/wpsp-teacher-attendance.php:28
+msgid "View"
+msgstr "Просмотр"
+
+#: pages/wpsp-teacher-attendance.php:26
+msgid "Add"
+msgstr "Добавить"
+
+#: pages/wpsp-teacher-attendance.php:21 pages/wpsp-notify.php:297
+#: pages/wpsp-notify.php:333
+msgid "Date"
+msgstr "Дата"
+
+#: wpsp-school-login.php:750
+msgid "Check your email for your new password."
+msgstr "Вам отправлено письмо с новым паролем."
+
+#: wpsp-school-login.php:748
+msgid "Check your email for the confirmation link."
+msgstr "Вам отправлено письмо со ссылкой для подтверждения."
+
+#: wpsp-school-login.php:746
+msgid "User registration is currently not allowed."
+msgstr "В данный момент регистрация запрещена."
+
+#: wpsp-school-login.php:744
+msgid "You are now logged out."
+msgstr "Вы вышли из системы."
+
+#: wpsp-school-login.php:740
+msgid "Your session has expired. Please log in to continue where you left off."
+msgstr "Ваша сессия истекла. Пожалуйста, авторизуйтесь снова, чтобы продолжить работу."
+
+#: wpsp-school-login.php:707
+msgid "You have logged in successfully."
+msgstr "Вы успешно вошли в систему."
+
+#. translators: 1: Browser cookie documentation URL
+#: wpsp-school-login.php:690
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</a> to use WordPress."
+msgstr "<strong>ОШИБКА</strong>: Cookies либо заблокированы, либо не поддерживаются вашим браузером. Чтобы использовать WordPress, нужно <a href=\"%s\">разрешить cookies</a>."
+
+#: wpsp-school-login.php:686
+msgid "https://wordpress.org/support/"
+msgstr "https://ru.wordpress.org/support/"
+
+#: wpsp-school-login.php:686 wpsp-school-login.php:691
+msgid "https://codex.wordpress.org/Cookies"
+msgstr "https://codex.wordpress.org/Cookies"
+
+#. translators: 1: Browser cookie documentation URL, 2: Support forums URL
+#: wpsp-school-login.php:685
+msgid "<strong>ERROR</strong>: Cookies are blocked due to unexpected output. For help, please see <a href=\"%1$s\">this documentation</a> or try the <a href=\"%2$s\">support forums</a>."
+msgstr "<strong>ОШИБКА</strong>: Cookies заблокированы из-за неожиданного вывода на экран. Посмотрите <a href=\"%1$s\">документацию</a> или обратитесь за помощью на <a href=\"%2$s\">форумы поддержки</a>."
+
+#: wpsp-school-login.php:647 wpsp-school-login.php:818
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: wpsp-school-login.php:640
+msgid "Registration confirmation will be emailed to you."
+msgstr "Подтверждение регистрации будет отправлено на ваш e-mail."
+
+#: wpsp-school-login.php:629 lib/wpsp-admin.php:46 lib/wpsp-ajaxworks.php:3952
+#: pages/wpsp-student.php:149 pages/wpsp-notify.php:22
+#: pages/wpsp-notify.php:243
+msgid "Email"
+msgstr "Email"
+
+#: wpsp-school-login.php:625
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: wpsp-school-login.php:621
+msgid "Register For This Site"
+msgstr "Зарегистрироваться на этом сайте"
+
+#: wpsp-school-login.php:440
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr "Срок действия ссылки для сброса пароля истёк. Пожалуйста, запросите новую ссылку ниже."
+
+#: wpsp-school-login.php:438
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr "Ваша ссылка для сброса пароля некорректна. Пожалуйста, запросите новую ссылку ниже."
+
+#: wpsp-school-login.php:331
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "Возможная причина: на сервере отключена функция mail()."
+
+#: wpsp-school-login.php:331
+msgid "The email could not be sent."
+msgstr "Не удалось отправить письмо."
+
+#. translators: Password reset email subject. 1: Site name
+#: wpsp-school-login.php:304
+msgid "[%s] Password Reset"
+msgstr "[%s] Новый пароль"
+
+#: wpsp-school-login.php:292
+msgid "To reset your password, visit the following address:"
+msgstr "Чтобы сбросить пароль, перейдите по следующей ссылке:"
+
+#: wpsp-school-login.php:291
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Если произошла ошибка, просто проигнорируйте это письмо, и ничего не произойдёт."
+
+#: wpsp-school-login.php:290
+msgid "Username: %s"
+msgstr "Имя пользователя: %s"
+
+#: wpsp-school-login.php:288
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Кто-то запросил сброс пароля для следующей учётной записи:"
+
+#: wpsp-school-login.php:278
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr "<strong>ОШИБКА</strong>: Неверное имя пользователя или e-mail."
+
+#: wpsp-school-login.php:260
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>ОШИБКА</strong>: Пользователей с таким адресом e-mail не зарегистрировано."
+
+#: wpsp-school-login.php:256
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr "<strong>ОШИБКА</strong>: Введите имя пользователя или e-mail."
+
+#. translators: %s: site title
+#: wpsp-school-login.php:204
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr "&larr; Назад %s"
+
+#: wpsp-school-login.php:90
+msgid "Powered by WordPress"
+msgstr "Сайт работает на WordPress"
+
+#: wpsp-school-login.php:89
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: includes/filter_menu.php:15
+msgid "Time Table"
+msgstr "Расписание"
+
+#: includes/filter_menu.php:19
+msgid "Events"
+msgstr "Мероприятия"
+
+#: includes/filter_menu.php:14
+msgid "Exams"
+msgstr "Экзамены"
+
+#: includes/filter_menu.php:13 pages/wpsp-marks.php:186
+msgid "Marks"
+msgstr "Оценки"
+
+#: includes/filter_menu.php:11
+msgid "Subjects"
+msgstr "Темы"
+
+#: lib/wpsp-ajaxworks.php:4128 includes/filter_menu.php:16
+msgid "Attendance"
+msgstr "Посещаемость"
+
+#: includes/filter_menu.php:10 pages/wpsp-dashboard.php:567
+msgid "Classes"
+msgstr "Классы"
+
+#: includes/filter_menu.php:7 wpsp-layout.php:978 pages/wpsp-dashboard.php:560
+msgid "Parents"
+msgstr "Родители"
+
+#: includes/filter_menu.php:5 pages/wpsp-dashboard.php:554
+msgid "Teachers"
+msgstr "Учителя"
+
+#: includes/filter_menu.php:6 pages/wpsp-dashboard.php:548
+msgid "Students"
+msgstr "Студенты"
+
+#: includes/filter_menu.php:4
+msgid "Dashboard"
+msgstr "Консоль"
+
+#. Author URI of the plugin
+msgid "wpschoolpress.com"
+msgstr "wpschoolpress.com"
+
+#. Author of the plugin
+msgid "WPSchoolPress Team"
+msgstr "WPSchoolPress Team"
+
+#. Description of the plugin
+msgid "WPSchoolpress is a school management system plugin that makes school activities transparent to parents. For more information please visit our website."
+msgstr " WPSchoolpress школа система управления плагин, который делает школьную деятельность прозрачной для родителей. Для получения дополнительной информации, пожалуйста, посетите наш сайт."
+
+#. Plugin URI of the plugin
+msgid "http://wpschoolpress.com"
+msgstr "http://wpschoolpress.com"
+
+#: includes/wpsp-misc.php:1138
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+#: includes/wpsp-misc.php:1135
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: includes/wpsp-misc.php:1132
+msgid "United States (US)"
+msgstr "Соединенные Штаты (США)"
+
+#: includes/wpsp-misc.php:1129
+msgid "United Kingdom (UK)"
+msgstr "Великобритания (Великобритания)"
+
+#: includes/wpsp-misc.php:1126
+msgid "United Arab Emirates"
+msgstr "Объединенные Арабские Эмираты"
+
+#: includes/wpsp-misc.php:1123
+msgid "Ukraine"
+msgstr "Украина"
+
+#: includes/wpsp-misc.php:1120
+msgid "Uganda"
+msgstr "Уганда"
+
+#: includes/wpsp-misc.php:1006
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+
+#: includes/wpsp-misc.php:982
+msgid "Saint Helena"
+msgstr "Остров Святой Елены"
+
+#: includes/wpsp-misc.php:979
+msgid "Saint Barth&eacute;lemy"
+msgstr "Сен-Барт&eacute;lemy"
+
+#: includes/wpsp-misc.php:976
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: includes/wpsp-misc.php:973
+msgid "Russia"
+msgstr "Россия"
+
+#: includes/wpsp-misc.php:970
+msgid "Romania"
+msgstr "Румыния"
+
+#: includes/wpsp-misc.php:967
+msgid "Reunion"
+msgstr "Реюньон"
+
+#: includes/wpsp-misc.php:964
+msgid "Qatar"
+msgstr "Катар"
+
+#: includes/wpsp-misc.php:961
+msgid "Portugal"
+msgstr "Португалия"
+
+#: includes/wpsp-misc.php:958
+msgid "Poland"
+msgstr "Польша"
+
+#: includes/wpsp-misc.php:955
+msgid "Pitcairn"
+msgstr "Питкэрн"
+
+#: includes/wpsp-misc.php:952
+msgid "Philippines"
+msgstr "Филиппины"
+
+#: includes/wpsp-misc.php:949
+msgid "Peru"
+msgstr "Перу"
+
+#: includes/wpsp-misc.php:946
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: includes/wpsp-misc.php:943
+msgid "Papua New Guinea"
+msgstr "Папуа Новая Гвинея"
+
+#: includes/wpsp-misc.php:1072
+msgid "Switzerland"
+msgstr "Швейцария"
+
+#: includes/wpsp-misc.php:1069
+msgid "Sweden"
+msgstr "Швеция"
+
+#: includes/wpsp-misc.php:1066
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+#: includes/wpsp-misc.php:1063
+msgid "Svalbard and Jan Mayen"
+msgstr "Шпицберген и Ян-Майен"
+
+#: includes/wpsp-misc.php:1060
+msgid "Suriname"
+msgstr "Суринам"
+
+#: includes/wpsp-misc.php:1057
+msgid "Sudan"
+msgstr "Судан"
+
+#: includes/wpsp-misc.php:1054
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+#: includes/wpsp-misc.php:1051
+msgid "Spain"
+msgstr "Испания"
+
+#: includes/wpsp-misc.php:1048
+msgid "South Sudan"
+msgstr "Южный Судан"
+
+#: includes/wpsp-misc.php:1045
+msgid "South Korea"
+msgstr "Южная Корея"
+
+#: includes/wpsp-misc.php:1042
+msgid "South Georgia/Sandwich Islands"
+msgstr "Южная Георгия / Сандвичевы острова"
+
+#: includes/wpsp-misc.php:1039
+msgid "South Africa"
+msgstr "ЮАР"
+
+#: includes/wpsp-misc.php:1036
+msgid "Somalia"
+msgstr "Сомали"
+
+#: includes/wpsp-misc.php:1033
+msgid "Solomon Islands"
+msgstr "Соломоновы Острова"
+
+#: includes/wpsp-misc.php:1030
+msgid "Slovenia"
+msgstr "Словения"
+
+#: includes/wpsp-misc.php:805
+msgid "Liberia"
+msgstr "Либерия"
+
+#: includes/wpsp-misc.php:802
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: includes/wpsp-misc.php:799
+msgid "Lebanon"
+msgstr "Ливан"
+
+#: includes/wpsp-misc.php:796
+msgid "Latvia"
+msgstr "Латвия"
+
+#: includes/wpsp-misc.php:793
+msgid "Laos"
+msgstr "Лаос"
+
+#: includes/wpsp-misc.php:790
+msgid "Kyrgyzstan"
+msgstr "Киргизия"
+
+#: includes/wpsp-misc.php:787
+msgid "Kuwait"
+msgstr "Кувейт"
+
+#: includes/wpsp-misc.php:784
+msgid "Kiribati"
+msgstr "Кирибати"
+
+#: includes/wpsp-misc.php:781
+msgid "Kenya"
+msgstr "Кения"
+
+#: includes/wpsp-misc.php:778
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+#: includes/wpsp-misc.php:775
+msgid "Jordan"
+msgstr "Иордания"
+
+#: includes/wpsp-misc.php:772
+msgid "Jersey"
+msgstr "Джерси"
+
+#: includes/wpsp-misc.php:769
+msgid "Japan"
+msgstr "Япония"
+
+#: includes/wpsp-misc.php:766
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: includes/wpsp-misc.php:763
+msgid "Ivory Coast"
+msgstr "Берег Слоновой Кости"
+
+#: includes/wpsp-misc.php:895
+msgid "Nepal"
+msgstr "Непал"
+
+#: includes/wpsp-misc.php:892
+msgid "Nauru"
+msgstr "Науру"
+
+#: includes/wpsp-misc.php:889
+msgid "Namibia"
+msgstr "Намибия"
+
+#: includes/wpsp-misc.php:886
+msgid "Myanmar"
+msgstr "Мьянма"
+
+#: includes/wpsp-misc.php:883
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+#: includes/wpsp-misc.php:880
+msgid "Morocco"
+msgstr "Марокко"
+
+#: includes/wpsp-misc.php:877
+msgid "Montserrat"
+msgstr "Монсеррат"
+
+#: includes/wpsp-misc.php:874
+msgid "Montenegro"
+msgstr "Черногория"
+
+#: includes/wpsp-misc.php:871
+msgid "Mongolia"
+msgstr "Монголия"
+
+#: includes/wpsp-misc.php:868
+msgid "Monaco"
+msgstr "Монако"
+
+#: includes/wpsp-misc.php:865
+msgid "Moldova"
+msgstr "Молдова"
+
+#: includes/wpsp-misc.php:862
+msgid "Micronesia"
+msgstr "Микронезия"
+
+#: includes/wpsp-misc.php:859
+msgid "Mexico"
+msgstr "Мексика"
+
+#: includes/wpsp-misc.php:856
+msgid "Mayotte"
+msgstr "Майотта"
+
+#: includes/wpsp-misc.php:853
+msgid "Mauritius"
+msgstr "Маврикий"
+
+#: includes/wpsp-misc.php:625
+msgid "Dominica"
+msgstr "Доминика"
+
+#: includes/wpsp-misc.php:622
+msgid "Djibouti"
+msgstr "Джибути"
+
+#: includes/wpsp-misc.php:619
+msgid "Denmark"
+msgstr "Дания"
+
+#: includes/wpsp-misc.php:616
+msgid "Czech Republic"
+msgstr "Чешская Республика"
+
+#: includes/wpsp-misc.php:613
+msgid "Cyprus"
+msgstr "Кипр"
+
+#: includes/wpsp-misc.php:610
+msgid "Cura&Ccedil;ao"
+msgstr "Cura&Ccedil;ao"
+
+#: includes/wpsp-misc.php:607
+msgid "Cuba"
+msgstr "Куба"
+
+#: includes/wpsp-misc.php:604
+msgid "Croatia"
+msgstr "Хорватия"
+
+#: includes/wpsp-misc.php:601
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+#: includes/wpsp-misc.php:598
+msgid "Cook Islands"
+msgstr "Острова Кука"
+
+#: includes/wpsp-misc.php:595
+msgid "Congo (Kinshasa)"
+msgstr "Конго (Киншаса)"
+
+#: includes/wpsp-misc.php:592
+msgid "Congo (Brazzaville)"
+msgstr "Конго (Браззавиль)"
+
+#: includes/wpsp-misc.php:589
+msgid "Comoros"
+msgstr "Коморские Острова"
+
+#: includes/wpsp-misc.php:586
+msgid "Colombia"
+msgstr "Колумбия"
+
+#: includes/wpsp-misc.php:583
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосовые острова (Килинг)"
+
+#: includes/wpsp-misc.php:715
+msgid "Guinea-Bissau"
+msgstr "Гвинея-Бисау"
+
+#: includes/wpsp-misc.php:712
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: includes/wpsp-misc.php:709
+msgid "Guernsey"
+msgstr "Гернси"
+
+#: includes/wpsp-misc.php:706
+msgid "Guatemala"
+msgstr "Гватемала"
+
+#: includes/wpsp-misc.php:703
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+#: includes/wpsp-misc.php:700
+msgid "Grenada"
+msgstr "Гренада"
+
+#: includes/wpsp-misc.php:697
+msgid "Greenland"
+msgstr "Гренландия"
+
+#: includes/wpsp-misc.php:694
+msgid "Greece"
+msgstr "Греция"
+
+#: includes/wpsp-misc.php:691
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+#: includes/wpsp-misc.php:688
+msgid "Ghana"
+msgstr "Гана"
+
+#: includes/wpsp-misc.php:685
+msgid "Germany"
+msgstr "Германия"
+
+#: includes/wpsp-misc.php:682
+msgid "Georgia"
+msgstr "Georgia"
+
+#: includes/wpsp-misc.php:679
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: includes/wpsp-misc.php:676
+msgid "Gabon"
+msgstr "Габон"
+
+#: includes/wpsp-misc.php:673
+msgid "French Southern Territories"
+msgstr "Французские Южные Территории"
+
+#: includes/wpsp-misc.php:442
+msgid "&#197;land Islands"
+msgstr "&#197;land Islands"
+
+#: includes/wpsp-misc.php:445
+msgid "Albania"
+msgstr "Албания"
+
+#: includes/wpsp-misc.php:439
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+#: includes/wpsp-teacherList.php:571 includes/wpsp-studentList.php:106
+msgid "Select Columns to Export"
+msgstr "Выберите колонки для экспорта"
+
+#: includes/wpsp-teacherList.php:535 includes/wpsp-studentList.php:99
+msgid "Export"
+msgstr "Экспорт"
+
+#: includes/wpsp-teacherList.php:319 includes/wpsp-teacherList.php:427
+#: includes/wpsp-studentList.php:76
+msgid "Select Columns to Print"
+msgstr "Выберите колонки для печати"
+
+#: includes/wpsp-teacherList.php:303 includes/wpsp-teacherList.php:411
+#: includes/wpsp-teacherList.php:551 includes/wpsp-studentList.php:72
+#: includes/wpsp-studentList.php:101
+msgid "Toggle Dropdown"
+msgstr "Показать"
+
+#: includes/wpsp-teacherList.php:291 includes/wpsp-teacherList.php:399
+#: includes/wpsp-studentList.php:69
+msgid "Print"
+msgstr "Печать"
+
+#: includes/wpsp-teacherList.php:217 includes/wpsp-parentList.php:35
+#: includes/wpsp-studentList.php:46
+msgid "Select Class Name"
+msgstr "Выберите класс"
+
+#: includes/wpsp-teacherList.php:65 includes/wpsp-studentList.php:19
+msgid "Date Of Join"
+msgstr "Дата поступления"
+
+#: includes/wpsp-teacherList.php:61 includes/wpsp-studentList.php:18
+msgid "Date Of Birth"
+msgstr "Дата рождения"
+
+#: includes/wpsp-studentList.php:16
+msgid "Parent First Name"
+msgstr "Имя родителя"
+
+#: includes/wpsp-studentList.php:14
+msgid "Current Address"
+msgstr "Текущий адрес"
+
+#: includes/wpsp-teacherList.php:49 includes/wpsp-studentList.php:12
+msgid "Country"
+msgstr "Страна"
+
+#: includes/wpsp-teacherList.php:45 includes/wpsp-studentList.php:11
+msgid "Zip Code"
+msgstr "Почтовый индекс"
+
+#: includes/wpsp-misc.php:535
+msgid "British Indian Ocean Territory"
+msgstr "Британская территория в Индийском океане"
+
+#: includes/wpsp-misc.php:532
+msgid "Brazil"
+msgstr "Бразилия"
+
+#: includes/wpsp-misc.php:529
+msgid "Bouvet Island"
+msgstr "Остров Буве"
+
+#: includes/wpsp-misc.php:526
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: includes/wpsp-misc.php:523
+msgid "Bosnia and Herzegovina"
+msgstr "Босния и Герцеговина"
+
+#: includes/wpsp-misc.php:520
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Бонэйр, Синт-Эстатиус и Саба"
+
+#: includes/wpsp-misc.php:517
+msgid "Bolivia"
+msgstr "Боливия"
+
+#: includes/wpsp-misc.php:514
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: includes/wpsp-misc.php:511
+msgid "Bermuda"
+msgstr "Бермудские острова"
+
+#: includes/wpsp-misc.php:508
+msgid "Benin"
+msgstr "Бенин"
+
+#: includes/wpsp-misc.php:505
+msgid "Belize"
+msgstr "Белиз"
+
+#: includes/wpsp-misc.php:502
+msgid "Belau"
+msgstr "Belau"
+
+#: includes/wpsp-misc.php:499
+msgid "Belgium"
+msgstr "Бельгия"
+
+#: includes/wpsp-misc.php:493
+msgid "Barbados"
+msgstr "Барбадос"
+
+#: includes/wpsp-misc.php:496
+msgid "Belarus"
+msgstr "Беларусь"
+
+#: pages/wpsp-notify.php:242
+msgid "How to notify?"
+msgstr "Как уведомлять?"
+
+#: lib/wpsp-ajaxworks.php:3990
+msgid "Notify Type"
+msgstr "Тип уведомления"
+
+#: pages/wpsp-notify.php:217
+msgid "Whom to notify?"
+msgstr "Кого оповестить?"
+
+#: lib/wpsp-ajaxworks.php:3986 pages/wpsp-notify.php:295
+#: pages/wpsp-notify.php:331
+msgid "Receiver"
+msgstr "Получатель"
+
+#: lib/wpsp-ajaxworks.php:3982 pages/wpsp-notify.php:294
+#: pages/wpsp-notify.php:330
+msgid "Description"
+msgstr "Описание"
+
+#: lib/wpsp-admin.php:42 lib/wpsp-ajaxworks.php:3978
+#: includes/wpsp-teacherList.php:735 includes/wpsp-teacherList.php:907
+#: pages/wpsp-marks.php:182 pages/wpsp-notify.php:293 pages/wpsp-notify.php:329
+msgid "Name"
+msgstr "Имя"
+
+#: lib/wpsp-ajaxworks.php:3955 pages/wpsp-notify.php:25
+msgid "Push Notification (Android & IOS)"
+msgstr "Push-уведомления (Android и iOS)"
+
+#: lib/wpsp-ajaxworks.php:3954 pages/wpsp-notify.php:24
+msgid "Web Notification"
+msgstr "Web уведомления"
+
+#: lib/wpsp-ajaxworks.php:3953 pages/wpsp-settings.php:394
+#: pages/wpsp-notify.php:23 pages/wpsp-notify.php:246
+msgid "SMS"
+msgstr "SMS"
+
+#: lib/wpsp-ajaxworks.php:3951 includes/wpsp-teacherList.php:225
+#: includes/wpsp-studentList.php:54 pages/wpsp-subject.php:50
+#: pages/wpsp-notify.php:21 pages/wpsp-notify.php:248
+#: pages/wpsp-registration-request.php:28
+msgid "All"
+msgstr "Всё"
+
+#: lib/wpsp-ajaxworks.php:3948 pages/wpsp-notify.php:11
+#: pages/wpsp-notify.php:19
+msgid "All Teachers"
+msgstr "Все учителя"
+
+#: lib/wpsp-ajaxworks.php:3947 pages/wpsp-notify.php:13
+#: pages/wpsp-notify.php:18
+msgid "All Parents"
+msgstr "Все родители"
+
+#: lib/wpsp-ajaxworks.php:3946 pages/wpsp-notify.php:12
+#: pages/wpsp-notify.php:17
+msgid "All Students"
+msgstr "Все студенты"
+
+#: lib/wpsp-ajaxworks.php:3945 pages/wpsp-notify.php:10
+#: pages/wpsp-notify.php:16
+msgid "All Users"
+msgstr "Все пользователи"
+
+#: pages/wpsp-settings.php:605
+msgid "Enable SMS Notification"
+msgstr "Включить SMS уведомления"
+
+#: pages/wpsp-marks.php:142
+msgid "Add/Update"
+msgstr "Добавить/Обновить"
+
+#: pages/wpsp-marks.php:128
+msgid "Attach CSV"
+msgstr "Прикрепить CSV"
+
+#: pages/wpsp-marks.php:121
+msgid "Select Subject"
+msgstr "Выберите тему"
+
+#: pages/wpsp-marks.php:90
+msgid "Select Exam"
+msgstr "Выберите экзамен"
+
+#: pages/wpsp-marks.php:63
+msgid "Select Class"
+msgstr "Выберите класс"
+
+#: includes/wpsp-parentList.php:173 includes/wpsp-parentList.php:218
+#: pages/wpsp-student.php:214
+msgid "Parent Name"
+msgstr "Имя родителя"
+
+#: lib/wpsp-ajaxworks.php:4127 includes/wpsp-parentList.php:10
+#: pages/wpsp-student.php:213
+msgid "Student Name"
+msgstr "Имя ученика"
+
+#: pages/wpsp-student.php:204
+msgid "Your Current Class is "
+msgstr "Ваш текущий класс"
+
+#: pages/wpsp-student.php:170
+msgid "Sorry! No data retrieved"
+msgstr "Извините! Нет данных"
+
+#: includes/wpsp-teacherList.php:85 includes/wpsp-parentList.php:15
+#: includes/wpsp-studentList.php:17 pages/wpsp-student.php:157
+msgid "Blood Group"
+msgstr "Группа крови"
+
+#: includes/wpsp-teacherList.php:73 includes/wpsp-studentList.php:20
+#: pages/wpsp-student.php:153
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: pages/wpsp-student.php:142
+msgid "Permanent Country"
+msgstr "Страна"
+
+#: pages/wpsp-student.php:145
+msgid "Permanent Zipcode"
+msgstr "Почтовый индекс"
+
+#: includes/wpsp-studentList.php:15 pages/wpsp-student.php:138
+#: pages/wpsp-student.php:215
+msgid "Permanent Address"
+msgstr "Адрес"
+
+#: wpsp-school-login.php:621
+msgid "Registration Form"
+msgstr "Регистрационная форма"
+
+#: wpsp-school-login.php:553
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: wpsp-school-login.php:549
+msgid "Strength indicator"
+msgstr "Индикатор надёжности"
+
+#: wpsp-school-login.php:543
+msgid "New password"
+msgstr "Новый пароль"
+
+#: wpsp-school-login.php:537
+msgid "Enter your new password below."
+msgstr "Введите свой новый пароль."
+
+#: wpsp-school-login.php:537 wpsp-school-login.php:569
+msgid "Reset Password"
+msgstr "Сменить пароль"
+
+#: wpsp-school-login.php:531
+msgid "Your password has been reset."
+msgstr "Ваш пароль сброшен."
+
+#: wpsp-school-login.php:531
+msgid "Password Reset"
+msgstr "Сброс пароля"
+
+#: wpsp-school-login.php:518
+msgid "The passwords do not match."
+msgstr "Пароли не совпадают."
+
+#: wpsp-school-login.php:480 wpsp-school-login.php:575
+#: wpsp-school-login.php:643 wpsp-school-login.php:813
+#: includes/wpsp-login.php:107
+msgid "Register"
+msgstr "Регистрация"
+
+#: wpsp-school-login.php:477 wpsp-school-login.php:531
+#: wpsp-school-login.php:572 wpsp-school-login.php:646
+msgid "Log in"
+msgstr "Вход"
+
+#: wpsp-school-login.php:474
+msgid "Get New Password"
+msgstr "Получить новый пароль"
+
+#: wpsp-school-login.php:463 wpsp-school-login.php:780
+msgid "Username or Email Address"
+msgstr "Имя пользователя или электронная почта"
+
+#: wpsp-school-login.php:458
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Пожалуйста, введите ваше имя пользователя или e-mail. Вы получите письмо со ссылкой для создания нового пароля."
+
+#: wpsp-school-login.php:458
+msgid "Lost Password"
+msgstr "Забыл пароль"
+
+#: includes/wpsp-teacherList.php:747 includes/wpsp-teacherList.php:919
+#: includes/wpsp-studentList.php:151 pages/wpsp-teacher.php:60
+#: pages/wpsp-teacher.php:112
+msgid "Phone"
+msgstr "Телефон"
+
+#: pages/wpsp-teacher.php:58 pages/wpsp-teacher.php:110
+msgid "Incharge of Class"
+msgstr "Руководитель класса"
+
+#: includes/wpsp-studentList.php:142 pages/wpsp-teacher.php:57
+#: pages/wpsp-teacher.php:109
+msgid "Full Name"
+msgstr "Полное имя"
+
+#: pages/wpsp-messages.php:198 pages/wpsp-messages.php:202
+msgid "To"
+msgstr "кому"
+
+#: pages/wpsp-messages.php:205
+msgid "View Message"
+msgstr "Посмотреть сообщение"
+
+#: pages/wpsp-messages.php:191 pages/wpsp-messages.php:195
+msgid "From"
+msgstr "От"
+
+#: wpsp-school-login.php:795
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: wpsp-school-login.php:784 includes/wpsp-login.php:103
+msgid "Password"
+msgstr "Пароль"
+
+#: wpsp-school-login.php:768 wpsp-school-login.php:797
+msgid "Log In"
+msgstr "Вход"
+
+#: wpsp-school-login.php:754
+msgid "<strong>You have successfully updated WordPress!</strong> Please log back in to see what&#8217;s new."
+msgstr "<strong>Вы успешно обновили WordPress!</strong> Пожалуйста, войдите, чтобы узнать, что нового."
+
+#: wpsp-school-login.php:752
+msgid "Registration complete. Please check your email."
+msgstr "Регистрация завершена. Проверьте вашу почту."
+
+#. Plugin Name of the plugin
+#: wpsp-class-admin.php:35 wpsp-layout.php:46
+msgid "WPSchoolPress"
+msgstr "WPSchoolPress"
+
+#: wpsp-class-admin.php:595 includes/wpsp-studentList.php:143
+msgid "Parent"
+msgstr "Родитель"
+
+#: wpsp-class-admin.php:589 pages/wpsp-student.php:122
+#: pages/wpsp-settings.php:101 pages/wpsp-settings.php:123
+msgid "Class"
+msgstr "Класс"
+
+#: wpsp-class-admin.php:583 lib/wpsp-activation.php:835
+msgid "Student"
+msgstr "Ученик"
+
+#: wpsp-class-admin.php:577 lib/wpsp-activation.php:833
+msgid "Teacher"
+msgstr "Учитель"
+
+#: wpsp-class-admin.php:571
+msgid "WPSchoolPress Dashboard"
+msgstr "WPSchoolPress Консоль"
+
+#: wpsp-layout.php:106
+msgid "Change Password"
+msgstr "Сменить пароль"
+
+#: includes/wpsp-teacherList.php:93 includes/filter_menu.php:24
+msgid "Working Hours"
+msgstr "Рабочие часы"
+
+#: includes/filter_menu.php:12
+msgid "Subject Mark Fields"
+msgstr "Поля для оценок"
+
+#: includes/filter_menu.php:22
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: wpschoolpress.php:173 lib/wpsp-admin-options.php:18
+#: includes/filter_menu.php:23
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/filter_menu.php:18
+msgid "Teachers Attendance"
+msgstr "Посещаемость учителей"
+
+#: includes/filter_menu.php:21
+msgid "Transport"
+msgstr "Транспорт"
+
+#: includes/filter_menu.php:20
+msgid "Notify"
+msgstr "Оповещения"
+
+#: includes/filter_menu.php:26
+msgid "Import History"
+msgstr "Импорт истории"
+
+#: includes/wpsp-login.php:110
+msgid "Powered by"
+msgstr "Работает на"

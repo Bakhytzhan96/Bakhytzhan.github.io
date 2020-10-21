@@ -1,0 +1,1215 @@
+# Translation of Themes - Education LMS in Russian
+# This file is distributed under the same license as the Themes - Education LMS package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-09 19:25:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Education LMS\n"
+
+#. Description of the theme
+msgid "Education LMS is a simple, clean, responsive and user-friendly education WordPress theme specially designed for university, school, college or other educational institutions. The Education LMS theme has powerful theme customization options such as custom header media, logo, custom menu, social icons, featured slider, courses, title bar, news, and more. It makes your website more engaging and informative. Especially, the Education LMS theme works excellent with Elementor and LearnPress plugins, help you easily create flexible content and sell the course online. For more details, check out Theme Instructions at http://docs.filathemes.com/education-lms/ and demo at https://www.filathemes.com/downloads/education-lms/"
+msgstr "Education LMS is a simple, clean, responsive and user-friendly education WordPress theme specially designed for university, school, college or other educational institutions. The Education LMS theme has powerful theme customization options such as custom header media, logo, custom menu, social icons, featured slider, courses, title bar, news, and more. It makes your website more engaging and informative. Especially, the Education LMS theme works excellent with Elementor and LearnPress plugins, help you easily create flexible content and sell the course online. For more details, check out Theme Instructions at http://docs.filathemes.com/education-lms/ and demo at https://www.filathemes.com/downloads/education-lms/"
+
+#. Theme Name of the theme
+msgid "Education LMS"
+msgstr "Education LMS"
+
+#: learnpress/single-course.php:105
+msgid "<i class=\"fa fa-file-text-o\"></i> %d lessons"
+msgstr "<i class=\"fa fa-file-text-o\"></i> %d урока"
+
+#: inc/elementors/course-grid.php:183
+msgid "View All Courses"
+msgstr "Просмотреть курсы"
+
+#: inc/elementors/course-grid.php:104
+msgid "https://your-link.com"
+msgstr "https://ваш-сайт.com"
+
+#: inc/elementors/course-grid.php:102
+msgid "More Link"
+msgstr "Ссылка для продолжения"
+
+#: inc/elementors/course-grid.php:55
+msgid "Select the course category"
+msgstr "Выберите категорию курса"
+
+#: inc/elementors/course-grid.php:46 inc/elementors/course-grid.php:125
+msgid "Top Courses"
+msgstr "Лучшие курсы"
+
+#: inc/elementors/course-grid.php:20 inc/elementors/course-grid.php:36
+msgid "Course Grid"
+msgstr "Список курсов"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: inc/template-functions.php:445 inc/template-functions.php:490
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#: inc/template-functions.php:445 inc/template-functions.php:490
+msgid "View your shopping cart"
+msgstr "Проверить корзину"
+
+#: inc/customizer.php:389
+msgid "Hide Footer Connect"
+msgstr "Скрыть нижний колонтитул"
+
+#: inc/customizer.php:367
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: inc/customizer.php:352
+msgid "Icon size"
+msgstr "Размер значка"
+
+#: inc/customizer.php:340
+msgid "Hide the WooCommerce Cart on topbar?"
+msgstr "Скрыть Корзину WooCommerce на верхней панели"
+
+#: inc/customizer.php:327
+msgid "WooCommerce Cart"
+msgstr "Корзина WooCommerce"
+
+#: inc/customizer.php:230
+msgid "Toggle Dropdown"
+msgstr "Включить выпадение"
+
+#: inc/customizer.php:229
+msgid "Slide from right"
+msgstr "Слайд справа"
+
+#: inc/customizer.php:228
+msgid "Slide from left"
+msgstr "Слайд слева"
+
+#: inc/customizer.php:225
+msgid "Display Type"
+msgstr "Тип отображения"
+
+#: inc/customizer.php:214
+msgid "Menu Sidebar"
+msgstr "Боковое меню"
+
+#: inc/customizer.php:156
+msgid "Footer Width"
+msgstr "Ширина подвала"
+
+#: inc/customizer.php:130
+msgid "Header Main Width"
+msgstr "Основная ширина заголовка"
+
+#: inc/customizer.php:118 inc/customizer.php:134 inc/customizer.php:160
+msgid "Contained"
+msgstr "Вписано"
+
+#: inc/customizer.php:117 inc/customizer.php:133 inc/customizer.php:159
+msgid "Full"
+msgstr "По ширине"
+
+#: inc/customizer.php:114
+msgid "Header Top Width"
+msgstr "Ширина верхнего колонтитула"
+
+#: inc/customizer.php:102
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer.php:89
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: inc/customizer.php:78
+msgid "Containers"
+msgstr "Контейнеры"
+
+#: inc/customizer.php:70
+msgid "Layouts"
+msgstr "Разметка"
+
+#: inc/customizer.php:54
+msgid "Logo Max Width"
+msgstr "Максимальная ширина логотипа"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: template-parts/content-page.php:21
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: search query.
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: learnpress/single-course.php:107
+msgid "duration"
+msgstr "продолжительность"
+
+#: learnpress/single-course.php:106
+msgid "quizzes"
+msgstr "тесты"
+
+#: learnpress/single-course.php:75
+msgid "Teacher"
+msgstr "Преподаватель"
+
+#: learnpress/single-course.php:80 inc/elementors/course-grid.php:53
+#: inc/widgets.php:115
+msgid "Category"
+msgstr "Категория"
+
+#: inc/widgets.php:103
+msgid "Comment count"
+msgstr "Число комментариев"
+
+#: inc/widgets.php:99
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: inc/widgets.php:94
+msgid "Number of photos"
+msgstr "Количество фотографий"
+
+#: inc/widgets.php:76 inc/widgets.php:82
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+#: inc/widgets.php:14
+msgid "Display your latest posts in widget."
+msgstr "Показать ваши последние сообщения в виджете."
+
+#: inc/widgets.php:11
+msgid "Theme: Popular Posts"
+msgstr "Тема: Популярные Записи"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#: inc/tgm.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s был успешно установлен и активирован."
+
+#: inc/tgm.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: inc/tgm.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/tgm.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgm.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgm.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/tgm.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/tgm.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/tgm.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/tgm.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/tgm.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2614
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: inc/tgm.php:2554
+msgid "Status"
+msgstr "Состояние"
+
+#: inc/tgm.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/tgm.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm.php:2498
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: inc/tgm.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновление: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все: <span class=\"count\">(%s)</span>"
+msgstr[1] "Все: <span class=\"count\">(%s)</span>"
+msgstr[2] "Все: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/tgm.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm.php:2321
+msgid "Active"
+msgstr "Активирован"
+
+#: inc/tgm.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm.php:2315
+msgid "Not Installed"
+msgstr "Не установленный"
+
+#: inc/tgm.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm.php:2292
+msgid "WordPress Repository"
+msgstr "Каталог WordPress"
+
+#: inc/tgm.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgm.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: inc/tgm.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm.php:1121 inc/tgm.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/tgm.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Внешний пакет плагина содержит более одного файла вне отдельной папки."
+
+#: inc/tgm.php:934 inc/tgm.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагина с просьбой создать пакет своего плагина в соответствии с руководством WordPress."
+
+#: inc/tgm.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: inc/tgm.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для совместимости с темой требуется обновление этого плагина."
+
+#: inc/tgm.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: inc/tgm.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/tgm.php:395
+msgid "Dismiss this notice"
+msgstr "Скрыть эту заметку"
+
+#. translators: 1: dashboard link.
+#: inc/tgm.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/tgm.php:388 inc/tgm.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин активирован:"
+msgstr[1] "Эти плагины активированы:"
+msgstr[2] "Эти плагины активированы:"
+
+#: inc/tgm.php:387 inc/tgm.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: inc/tgm.php:386 inc/tgm.php:827 inc/tgm.php:2533 inc/tgm.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: inc/tgm.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начало активации плагина"
+msgstr[1] "Начало активации плагинов"
+msgstr[2] "Начало активации плагинов"
+
+#: inc/tgm.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начало обновления плагина"
+msgstr[1] "Начало обновления плагинов"
+msgstr[2] "Начало обновления плагинов"
+
+#: inc/tgm.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начало установки плагина"
+msgstr[1] "Начало установки плагинов"
+msgstr[2] "Начало установки плагинов"
+
+#: inc/tgm.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgm.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/tgm.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/template-tags.php:169
+msgid "Review"
+msgstr "Обзор"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:126
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:122
+msgid "says:"
+msgstr "говорит:"
+
+#: inc/template-tags.php:117
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/template-tags.php:103
+msgid "Edit"
+msgstr "Правка"
+
+#: inc/template-tags.php:103
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:78
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:69
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+#: inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-functions.php:439
+msgid "Logout"
+msgstr "Выйти"
+
+#: inc/template-functions.php:435
+msgid "Register"
+msgstr "Регистрация"
+
+#: inc/template-functions.php:430
+msgid "Login"
+msgstr "Вход"
+
+#: inc/template-functions.php:338
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:338
+msgid "Copyright &copy; %1$s %2$s - %3$s theme by %4$s"
+msgstr "Авторские права &copy; %1$s %2$s - %3$s тема от %4$s"
+
+#: inc/template-functions.php:290
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/template-functions.php:284
+msgid "LearnPress - Course Review"
+msgstr "LearnPress - Course Review"
+
+#: inc/template-functions.php:278
+msgid "LearnPress - WordPress LMS Plugin"
+msgstr "LearnPress - WordPress LMS Plugin"
+
+#: inc/template-functions.php:272
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/template-functions.php:57
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+#: inc/elementors.php:26
+msgid "Theme Elements"
+msgstr "Элементы темы"
+
+#: template-parts/content.php:54 inc/elementors/recent-news.php:182
+msgid "Read more"
+msgstr "Читать дальше"
+
+#: inc/elementors/recent-news.php:106
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/elementors/recent-news.php:96
+msgid "The excerpt length"
+msgstr "Длина отрывка"
+
+#: inc/elementors/recent-news.php:95
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: inc/elementors/recent-news.php:44 inc/elementors/recent-news.php:132
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: inc/elementors/recent-news.php:18 inc/elementors/recent-news.php:34
+msgid "Recent News"
+msgstr "Свежие новости"
+
+#: inc/elementors/featured-slider.php:137
+msgid "Height"
+msgstr "Высота"
+
+#: inc/elementors/featured-slider.php:123
+msgid "Slide 2 Heading"
+msgstr "Слайд 2 Заголовок"
+
+#: inc/elementors/featured-slider.php:118
+#: inc/elementors/featured-slider.php:124
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr "Нажмите кнопку редактирования, чтобы изменить этот текст. Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+
+#: inc/elementors/featured-slider.php:117
+msgid "Slide 1 Heading"
+msgstr "Слайд 1 Заголовок"
+
+#: inc/elementors/featured-slider.php:112
+msgid "Slides"
+msgstr "Слайды"
+
+#: inc/elementors/featured-slider.php:100
+msgid "http://your-link.com"
+msgstr "http://your-link.com"
+
+#: inc/elementors/featured-slider.php:98
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/elementors/featured-slider.php:91 inc/elementors/featured-slider.php:119
+#: inc/elementors/featured-slider.php:125
+msgid "Click Here"
+msgstr "Нажмите"
+
+#: inc/elementors/featured-slider.php:89
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/elementors/featured-slider.php:80
+msgid "I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Я слайд-контент. Нажмите кнопку редактирования, чтобы изменить этот текст. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: inc/elementors/featured-slider.php:78
+msgid "Description"
+msgstr "Описание"
+
+#: inc/elementors/featured-slider.php:69
+msgid "Slide Heading"
+msgstr "Заголовок слайда"
+
+#: inc/elementors/featured-slider.php:62
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/elementors/featured-slider.php:53
+msgctxt "Background Control"
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/elementors/featured-slider.php:41
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/elementors/featured-slider.php:36
+msgid "Background"
+msgstr "Фон"
+
+#: inc/elementors/featured-slider.php:29
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc/elementors/featured-slider.php:14
+msgid "Featured Slider"
+msgstr "Показанный Слайдер"
+
+#: inc/elementors/recent-news.php:115 inc/elementors/courses.php:107
+msgid "6 Columns"
+msgstr "6 Столбцов"
+
+#: inc/elementors/recent-news.php:114 inc/elementors/courses.php:106
+msgid "4 Columns"
+msgstr "4 Столбца"
+
+#: inc/elementors/recent-news.php:113 inc/elementors/courses.php:105
+msgid "3 Columns"
+msgstr "Три столбца"
+
+#: inc/elementors/recent-news.php:112 inc/elementors/courses.php:104
+msgid "2 Columns"
+msgstr "Два столбца"
+
+#: inc/elementors/recent-news.php:108 inc/elementors/courses.php:100
+msgid "How many column will be display on a row?"
+msgstr "Сколько столбцов будет отображаться в строке?"
+
+#: inc/elementors/courses.php:98
+msgid "Column"
+msgstr "Столбец"
+
+#: inc/elementors/recent-news.php:85 inc/elementors/courses.php:88
+msgid "How many course to show?"
+msgstr "Сколько курсов показать?"
+
+#: inc/elementors/recent-news.php:84 inc/elementors/courses.php:87
+msgid "Number of posts"
+msgstr "Количество записей"
+
+#: inc/elementors/recent-news.php:77 inc/elementors/course-grid.php:91
+#: inc/elementors/courses.php:80 inc/widgets.php:101
+msgid "Date"
+msgstr "Дата"
+
+#: inc/elementors/recent-news.php:76 inc/elementors/course-grid.php:90
+#: inc/elementors/courses.php:79 inc/widgets.php:104
+msgid "Random"
+msgstr "Случайно"
+
+#: inc/elementors/recent-news.php:75 inc/elementors/course-grid.php:89
+#: inc/elementors/courses.php:78
+msgid "Name"
+msgstr "Название"
+
+#: inc/elementors/featured-slider.php:67 inc/elementors/recent-news.php:74
+#: inc/elementors/course-grid.php:88 inc/elementors/courses.php:77
+#: inc/widgets.php:89 inc/widgets.php:102
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/elementors/recent-news.php:73 inc/elementors/course-grid.php:87
+#: inc/elementors/courses.php:76
+msgid "ID"
+msgstr "ID"
+
+#: inc/elementors/recent-news.php:72 inc/elementors/course-grid.php:86
+#: inc/elementors/courses.php:75
+msgid "None"
+msgstr "Нет"
+
+#: inc/elementors/recent-news.php:68 inc/elementors/course-grid.php:82
+#: inc/elementors/courses.php:71
+msgid "Sort retrieved posts/pages by parameter"
+msgstr "Сортировать полученные записи/страницы по параметру"
+
+#: inc/elementors/recent-news.php:66 inc/elementors/course-grid.php:80
+#: inc/elementors/courses.php:69
+msgid "Orderby"
+msgstr "Сортировать по"
+
+#: inc/elementors/recent-news.php:59 inc/elementors/course-grid.php:73
+#: inc/elementors/courses.php:62 inc/widgets.php:110
+msgid "ASC"
+msgstr "Восх"
+
+#: inc/elementors/recent-news.php:58 inc/elementors/course-grid.php:72
+#: inc/elementors/courses.php:61 inc/widgets.php:109
+msgid "DESC"
+msgstr "Нисх"
+
+#: inc/elementors/recent-news.php:54 inc/elementors/course-grid.php:68
+#: inc/elementors/courses.php:57
+msgid "Ascending or descending order"
+msgstr "Восходящий или нисходящий порядок"
+
+#: inc/elementors/recent-news.php:52 inc/elementors/course-grid.php:66
+#: inc/elementors/courses.php:55 inc/widgets.php:107
+msgid "Order"
+msgstr "Заказать"
+
+#: inc/elementors/courses.php:46 inc/elementors/courses.php:124
+msgid "Popular Courses"
+msgstr "Популярные курсы"
+
+#: inc/elementors/recent-news.php:41 inc/elementors/course-grid.php:43
+#: inc/elementors/courses.php:43
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/elementors/courses.php:36
+msgid "Courses"
+msgstr "Курсы"
+
+#: inc/elementors/courses.php:20
+msgid "Popular Course"
+msgstr "Популярный курс"
+
+#: inc/dashboard.php:302
+msgid "You have been using <b>Education LMS</b> theme, do you like it? If so, please leave us <a href=\"%s\" target=\"_blank\">a review</a> with your feedback. Thank you!"
+msgstr "Вы пользовались темой <b>Education LMS</b>. Она вам понравилась? Если да, оставьте пожалуйста <a href=\"%s\" target=\"_blank\">отзыв</a>. Спасибо!"
+
+#: inc/dashboard.php:274
+msgid "The Education LMS theme require PHP version 5.4 or greater."
+msgstr "Тема Education LMS требует PHP версии 5.4 или выше."
+
+#: inc/dashboard.php:65
+msgid "Theme Screenshot"
+msgstr "Скриншот темы"
+
+#: inc/dashboard.php:59
+msgid "Online Documentation"
+msgstr "Онлайн документация"
+
+#: inc/dashboard.php:57
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Нужна помощь в установке и настройке %s? Пожалуйста, ознакомьтесь с инструкциями."
+
+#: inc/dashboard.php:56
+msgid "Theme Documentation"
+msgstr "Документация темы"
+
+#: inc/dashboard.php:52
+msgid "Start Customize"
+msgstr "Начать настройку"
+
+#: inc/dashboard.php:50
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s поддерживает Theme Customizer для всех настроек темы. Нажмите «Настроить», чтобы начать."
+
+#: inc/dashboard.php:49
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/dashboard.php:39
+msgid "Free vs PRO"
+msgstr "Бесплатная или Pro"
+
+#: inc/dashboard.php:33
+msgid "Welcome to %1$1s - Version %2$2s"
+msgstr "Добро пожаловать в %1$1s - версия %2$2s"
+
+#: inc/dashboard.php:8
+msgid "%s Dashboard"
+msgstr "%s Консоль"
+
+#: inc/customizer.php:690
+msgid "The page cover padding bottom in percent (%)."
+msgstr "Внутренний нижний отступ страницы (%)."
+
+#: inc/customizer.php:689
+msgid "Padding Bottom"
+msgstr "Внутренний отступ снизу"
+
+#: inc/customizer.php:676
+msgid "The page cover padding top in percent (%)."
+msgstr "Внутренний верхний отступ страницы (%)."
+
+#: inc/customizer.php:675
+msgid "Padding Top"
+msgstr "Внутренний отступ сверху"
+
+#: inc/customizer.php:662
+msgid "The title display on blog page."
+msgstr "Название отображается на странице блога."
+
+#: inc/customizer.php:661
+msgid "Blog Page Title"
+msgstr "Заголовок Блога"
+
+#: inc/customizer.php:654
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer.php:648
+msgid "Titlebar"
+msgstr "Панель заголовка"
+
+#: inc/customizer.php:634
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer.php:623
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer.php:611
+msgid "Hide tagged below entry post?"
+msgstr "Скрыть метки под записью?"
+
+#: inc/customizer.php:596
+msgid "Hide author after main title?"
+msgstr "Скрыть автора после основного заголовка?"
+
+#: inc/customizer.php:583
+msgid "Hide date after main title?"
+msgstr "Скрыть дату после основного заголовка?"
+
+#: inc/customizer.php:570
+msgid "Hide category after main title?"
+msgstr "Скрыть категорию после основного заголовка?"
+
+#: inc/customizer.php:554
+msgid "No sidebar"
+msgstr "Без боковой панели"
+
+#: inc/customizer.php:553
+msgid "Left sidebar"
+msgstr "Боковая панель слева"
+
+#: inc/customizer.php:552
+msgid "Right sidebar"
+msgstr "Боковая панель справа"
+
+#: inc/customizer.php:549
+msgid "Post Layout"
+msgstr "Разметка страницы"
+
+#: inc/customizer.php:537
+msgid "Single Post"
+msgstr "Одна запись"
+
+#: inc/customizer.php:524
+msgid "Email"
+msgstr "Email"
+
+#: inc/customizer.php:512
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:500
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/customizer.php:488
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/customizer.php:476
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer.php:464
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:452
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:440
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customizer.php:428
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:416
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:404
+msgid "Follow Text"
+msgstr "Текст подписки"
+
+#: inc/customizer.php:376
+msgid "Social Media"
+msgstr "Соцсети"
+
+#: inc/customizer.php:318
+msgid "Register page URL"
+msgstr "Адрес страницы регистрации"
+
+#: inc/customizer.php:306
+msgid "Login page URL"
+msgstr "Адрес страницы входа"
+
+#: inc/customizer.php:292
+msgid "Hide the logout on topbar?"
+msgstr "Скрыть выход на верхней панели?"
+
+#: inc/customizer.php:278
+msgid "Hide the register on topbar?"
+msgstr "Скрыть регистрацию на верхней панели?"
+
+#: inc/customizer.php:264
+msgid "Hide the login on topbar?"
+msgstr "Скрыть логин на верхней панели?"
+
+#: inc/customizer.php:251
+msgid "Hide the header topbar?"
+msgstr "Скрыть верхнюю панель заголовка?"
+
+#: inc/customizer.php:239
+msgid "Header Topbar"
+msgstr "Верхняя панель заголовка"
+
+#: inc/customizer.php:184
+msgid "Education Pro Features"
+msgstr "Education Pro возможности"
+
+#: inc/customizer.php:171
+msgid "Upgrade to Pro"
+msgstr "Купить Pro"
+
+#: inc/customizer.php:641
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:235
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:232
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:175
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: functions.php:166
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:157
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:148
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:138
+msgid "Topbar Right"
+msgstr "Правая верхняя панель"
+
+#: functions.php:128
+msgid "Topbar Left"
+msgstr "Левая верхняя панель"
+
+#: functions.php:118 functions.php:130 functions.php:140 functions.php:150
+#: functions.php:159 functions.php:168 functions.php:177
+msgid "Add widgets here."
+msgstr "Добавить виджеты"
+
+#: functions.php:116
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:52 inc/customizer.php:144
+msgid "Footer"
+msgstr "Подвал"
+
+#: functions.php:51
+msgid "Primary"
+msgstr "Главный"
+
+#: inc/customizer.php:397 inc/customizer.php:741 footer.php:24
+msgid "Follow Us"
+msgstr "Подписаться"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий на  &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария на  &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев на  &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один ответ на &ldquo;%1$s&rdquo;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском."
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Этой страницы нет."
+
+#. Author URI of the theme
+msgid "https://www.filathemes.com"
+msgstr "https://www.filathemes.com"
+
+#. Author of the theme
+msgid "FilaThemes"
+msgstr "FilaThemes"
+
+#. Theme URI of the theme
+msgid "https://www.filathemes.com/download/education-lms/"
+msgstr "https://www.filathemes.com/download/education-lms/"

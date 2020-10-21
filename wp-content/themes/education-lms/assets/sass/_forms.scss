@@ -1,0 +1,80 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  border: none;
+  border-radius: 0;
+  background: $color__link-hover;
+  box-shadow: none;
+  color: #fff;
+  padding: 13px 20px;
+  cursor: pointer;
+  text-shadow: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+  &:hover,
+  &:active,
+  &:focus {
+    background: $color__text-main;
+    color: #fff;
+  }
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+  color: $color__text-main;
+  border: 1px solid #e3e3e3;
+  border-radius: 3px;
+  background: #fff;
+  font-size: 13px;
+  margin: 0 0 10px;
+  padding: 12px;
+  width: 100%;
+  &:focus {
+    color: #000;
+    outline: none;
+    border: 1px solid #a9a9a9;
+  }
+}
+
+select {
+  border: 1px solid $color__border-input;
+}
+
+textarea {
+  width: 100%;
+}
+
+form {
+  label {
+    font-size: 14px;
+    font-weight: normal;
+    color: $color__text-main;
+    margin: 5px 0;
+    text-transform: uppercase;
+  }
+}
+
+.lp-archive-courses {
+  form[name="search-course"] .search-course-button {
+    height: 45px;
+    top: 0;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+  }
+}

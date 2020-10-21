@@ -1,0 +1,243 @@
+/* Pro panel */
+#accordion-section-education_lms_pro .accordion-section-title,
+#accordion-section-education_lms_pro .accordion-section-title::before,
+#accordion-section-education_lms_pro .accordion-section-title:hover {
+    background: #d54e21 !important;
+    color: #ffffff !important;
+}
+#accordion-section-education_lms_pro .accordion-section-title::after {
+    color: #FFFFFF;
+}
+
+.education-pro-title {
+    margin-bottom: 20px;
+}
+
+.education-pro-description span {
+    display: block;
+    margin-top: 7px;
+}
+
+.education-pro-description span:before {
+    content: "\f147";
+    color: #7ac143;
+    display: inline-block;
+    font: 400 20px/17px dashicons;
+    margin: 3px 4px 3px 0;
+    vertical-align: top;
+}
+
+.education-pro-description .education-pro-buy-button{
+    background: #7ac143 none repeat scroll 0 0;
+    border-radius: 3px;
+    color: #ffffff;
+    display: block;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    padding: 12px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.education-pro-description .education-pro-buy-button:hover {
+    background: #90D75A;
+}
+
+
+.customize-control-radio-image .choices input{
+    display: none;
+}
+.customize-control-radio-image .choices:after {
+    clear: both; content: " "; display: block;
+}
+.customize-control-radio-image .choices * {
+    box-sizing: border-box;
+}
+.customize-control-radio-image .choices .col {
+    width: 100%;
+    margin-right: 0;
+    float: left;
+    margin-top: 16px;
+
+}
+.customize-control-radio-image .choices .col:nth-of-type(odd) {
+    margin-right: 4%;
+}
+.customize-control-radio-image .choices label,
+.customize-control-radio-image .choices a {
+    display: block;
+    position: relative;
+    line-height: 1;
+}
+.customize-control-radio-image .choices .pro-item {
+    cursor: pointer;
+}
+.choice-item .pr{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: #f50000;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 2px 5px;
+    font-size: 10px;
+}
+.customize-control-radio-image .choices img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #DDDDDD;
+    line-height: 1;
+}
+
+.customize-control-radio-image .choices input:checked ~ img {
+    border-color: #347dca;
+}
+
+
+#customize-control-footer_custom_4_columns,
+#customize-control-footer_custom_2_columns,
+#customize-control-footer_custom_3_columns,
+#customize-control-footer_custom_1_columns {
+    display: none;
+}
+
+.customizer-group-heading {
+    background: #f5f5f5 none repeat scroll 0 0;
+    color: #888;
+    display: block;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 1;
+    margin: 10px -12px 2px;
+    padding: 14px 12px;
+    text-transform: uppercase;
+    border-top: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+/* ==========================================================================
+   Slider Range
+   ========================================================================== */
+.slider-custom-control {
+	margin-bottom: 30px;
+}
+.slider-custom-control input[type=number]::-webkit-inner-spin-button,
+.slider-custom-control input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+.slider-custom-control input[type=number] {
+	-moz-appearance: textfield;
+}
+.slider-custom-control  .customize-control-title {
+	display: inline-block;
+}
+.slider-custom-control input[type=number] {
+	text-align: right;
+	width: 50px;
+	float: right;
+}
+.slider-custom-control span.unit {
+    float: right;
+    width: 30px;
+    height: 26px;
+    border-right: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+    font-size: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 28px;
+}
+.slider-custom-control .slider {
+	width: 85%;
+	float: left;
+	margin: 20px 0 10px;
+}
+.slider-custom-control .slider-reset {
+	float: right;
+	cursor: pointer;
+}
+.slider-custom-control .slider-value {
+	border: none;
+	text-align: right;
+	width: 50px;
+	margin-right: 5px;
+}
+.slider-custom-control .slider-value,
+.slider-custom-control .slider-unit {
+	float: right;
+}
+.slider-custom-control .ui-widget.ui-widget-content {
+	border: 1px solid #ddd;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-bottom,
+.slider-custom-control .ui-corner-right,
+.slider-custom-control .ui-corner-br {
+	border-bottom-right-radius: 3px;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-bottom,
+.slider-custom-control .ui-corner-left,
+.slider-custom-control .ui-corner-bl {
+	border-bottom-left-radius: 3px;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-top,
+.slider-custom-control .ui-corner-right,
+.slider-custom-control .ui-corner-tr {
+	border-top-right-radius: 3px;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-top,
+.slider-custom-control .ui-corner-left,
+.slider-custom-control .ui-corner-tl {
+	border-top-left-radius: 3px;
+}
+.slider-custom-control .ui-widget-content {
+	background: #ddd none repeat scroll 0 0;
+	color: #333;
+}
+.slider-custom-control .ui-slider-horizontal {
+	height: 3px;
+}
+.slider-custom-control .ui-slider {
+	position: relative;
+	text-align: left;
+}
+.slider-custom-control .ui-state-default,
+.slider-custom-control .ui-widget-content .ui-state-default,
+.slider-custom-control .ui-widget-header .ui-state-default,
+.slider-custom-control .ui-button,
+.slider-custom-control .ui-button.ui-state-disabled:hover,
+.slider-custom-control .ui-button.ui-state-disabled:active {
+	background: #2885bb none repeat scroll 0 0;
+	border: 1px solid #2885bb;
+	color: #454545;
+	font-weight: normal;
+}
+.slider-custom-control .ui-slider-horizontal .ui-slider-handle {
+	margin-left: -7px;
+	top: -7px;
+	border-radius: 50%;
+}
+.slider-custom-control .ui-slider .ui-slider-handle {
+	cursor: pointer;
+	height: 14px;
+	position: absolute;
+	width: 14px;
+	z-index: 2;
+}
+.slider-custom-control .dashicons-image-rotate {
+	margin-top: 10px;
+	color: #d4d4d4;
+	size: 16px;
+}
+.slider-custom-control .dashicons-image-rotate:hover {
+	color: #a7a7a7;
+}
